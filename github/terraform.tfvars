@@ -1,0 +1,6 @@
+github_organization     = "example"
+github_repo_name        = "DevOpsTerraform"
+github_repo_visibility  = "private"
+github_repo_description = "This is Cloud infra project with IaC by Terraform"
+github_owner            = "itsared"
+github_token            = ""
